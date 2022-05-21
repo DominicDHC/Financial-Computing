@@ -1,2 +1,2 @@
 # Financial-Computing
-This is a repository for financial computing course.
+This is a project repository for financial computing course.
